@@ -1,0 +1,2 @@
+#Ignore .ipynb_checkpoints to version control JupyterNotebook:
+.ipynb_checkpoints
