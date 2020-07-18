@@ -7,5 +7,7 @@ El archivo `Tarea2_P1_y_P2.ipynb` contiene lo que corresponde a las preguntas 1 
 
 El archivo `P3.ipynb` contiene la P3. 
 
+La carpeta Notebooks_intermedios contiene notebooks que se usaron para hacer la entrega final.
+
 Link a model.h5 :
 https://drive.google.com/file/d/1kgrmI4M2R462kwGsxZ_WcPhqovHSmCh6/view?usp=sharing
