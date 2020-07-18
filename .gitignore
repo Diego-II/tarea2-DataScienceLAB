@@ -1,3 +1,4 @@
 #Ignore .ipynb_checkpoints to version control JupyterNotebook:
 .ipynb_checkpoints
 ChestXRay2017.zip
+/chest_xray
